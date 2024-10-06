@@ -12,9 +12,8 @@ The tutorial for this session can be found here [TreeVal-Tutorial](https://thebg
 
 Tree of Life Assembly, Wellcome Sanger Institute
 
-- Damon-Lee Pointon
 - Ying Sims, PhD
-- Will Eagles
+- Tyler Chafin
 
 ## Description
 
